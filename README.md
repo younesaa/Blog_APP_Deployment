@@ -46,8 +46,7 @@ c.&gt; **Install GitBash in your local system and clone the repo:**
 
 Again, it is assumed you already know how to install Git Bash, it is quite easy to do this for Windows and Mac. Download the OS and follow the installation prompts. [Click Here](https://github.com/git-guides/install-git) to get started and install Git. Having Git on your local system is a advisable because it makes it easier to push and commits code.
 
-After installing Git Bash, we need to clone the [repo](https://github.com/ougabriel/full-stack-blogging-app.git) we will be using, this [repo](https://github.com/ougabriel/full-stack-blogging-app.git) contains the source code needed for this project. [Click Here to CLONE it.](https://github.com/ougabriel/full-stack-blogging-app.git)
-
+After installing Git Bash, we need to clone the repo we will be using, [the base repo](https://github.com/ougabriel/full-stack-blogging-app.git) contains the source code used for this project.
 ```go
 git clone https://github.com/younesaa/Blog_APP_Deployment
 ```
