@@ -49,13 +49,8 @@ Again, it is assumed you already know how to install Git Bash, it is quite easy 
 After installing Git Bash, we need to clone the [repo](https://github.com/ougabriel/full-stack-blogging-app.git) we will be using, this [repo](https://github.com/ougabriel/full-stack-blogging-app.git) contains the source code needed for this project. [Click Here to CLONE it.](https://github.com/ougabriel/full-stack-blogging-app.git)
 
 ```go
-git clone https://github.com/ougabriel/full-stack-blogging-app.git
+git clone https://github.com/younesaa/Blog_APP_Deployment
 ```
-
-I am running the `git clone` command in VS Studio
-
-![s](https://miro.medium.com/v2/resize:fit:700/1*fddWNJ-zAHGtCA1RItSOAg.png)
-
 When this is done make sure to `cd` into the project directory
 
 ```go
