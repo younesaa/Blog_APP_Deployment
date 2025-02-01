@@ -878,3 +878,11 @@ http://<monitoring-vm-ip>:9115
 * Grafana: visualizes the metrics collected by Prometheus.
 
 By setting up these components, you’ll be able to monitor your application’s health and performance effectively.
+
+
+## **Author by:**
+
+![s](https://imgur.com/2j6Aoyl.png)
+
+> [!NOTE]
+> **Join Our** [Telegram Community](https://t.me/prodevopsguy) // [Follow me](https://github.com/NotHarshhaa) **for more DevOps & Cloud content.**
